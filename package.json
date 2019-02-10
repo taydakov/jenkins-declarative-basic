@@ -1,7 +1,7 @@
 {
   "name": "jenkins-declarative-basic",
   "version": "0.0.0",
-  "description": "",
+  "description": "Demonstrates basic usage of Jenkins declarative pipeline",
   "main": "index.js",
   "scripts": {
     "start": "echo \"Start is intended for local development only. Not included in Jenkins pipeline.\"",
@@ -13,6 +13,6 @@
     "type": "git",
     "url": "git@github-personal:taydakov/jenkins-declarative-basic"
   },
-  "author": "",
+  "author": "Leo T.",
   "license": "ISC"
 }
