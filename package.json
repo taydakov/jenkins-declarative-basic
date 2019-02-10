@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-declarative-basic",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Start is intended for local development only. Not included in Jenkins pipeline.\"",
+    "build": "echo \"Building artifacts for deployment. Included in Jenkins pipeline.\"",
+    "test:unit": "echo \"Running unit tests. Included in Jenkins pipeline.\"",
+    "test:e2e": "echo \"Runnig e2e tests. Included in Jenkins pipeline.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:taydakov/jenkins-declarative-basic"
+  },
+  "author": "",
+  "license": "ISC"
+}
