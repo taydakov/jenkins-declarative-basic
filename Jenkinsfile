@@ -18,6 +18,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
+                sh 'echo "Jenkins Deploy Stage"'
             }
         }
     }
